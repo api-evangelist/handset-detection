@@ -1,0 +1,55 @@
+{
+    "name": "Handset Detection",
+    "description": "Handset Detection : Detect all the things",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/420-handset-detection.jpg",
+    "tags": [
+        "api provider",
+        "devices",
+        "have api",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/handset-detection\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Handset Detection",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/420-handset-detection.jpg",
+            "humanURL": "http:\/\/www.handsetdetection.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/handset-detection-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/HandsetDetection"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/handset-detection"
+        },
+        {
+            "type": "Email",
+            "url": "hello@handsetdetection.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/handsetd"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.handsetdetection.com\/"
+        }
+    ]
+}
